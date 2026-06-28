@@ -34,22 +34,10 @@ I enjoy turning ideas into clean, usable software: responsive interfaces, reliab
 | [E-commerce Backend](https://github.com/Bondo2-1/E-commerce-backend) | Node.js and Express API structure with MongoDB, validation, middleware, and backend error handling |
 
 
-## GitHub Snapshot
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bondo2-1&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bondo2-1&layout=compact&hide_border=true&theme=transparent)
-
-## Currently Improving
-
-- Building cleaner backend APIs
-- Strengthening TypeScript and React architecture
-- Practicing Docker-based development workflows
-- Using Linux more confidently for development and deployment
-- Creating useful automations with n8n
 
 ## Connect
 
 I'm always open to learning, collaboration, and building practical projects.
 
-GitHub: [Bondo2-1](https://github.com/Bondo2-1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Khaled-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abdelmaqsooud/)
+[![GitHub](https://img.shields.io/badge/GitHub-Bondo2--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bondo2-1)
