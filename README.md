@@ -32,8 +32,7 @@ I enjoy turning ideas into clean, usable software: responsive interfaces, reliab
 | --- | --- |
 | [Weather App](https://github.com/Bondo2-1/weather-app) | React and TypeScript dashboard with API integration, responsive UI, loading states, retry handling, and accessible search behavior |
 | [E-commerce Backend](https://github.com/Bondo2-1/E-commerce-backend) | Node.js and Express API structure with MongoDB, validation, middleware, and backend error handling |
-| [E-commerce MERN](https://github.com/Bondo2-1/E-commerce-MERN) | Full-stack e-commerce practice using the MERN stack |
-| [Portfolio Page](https://github.com/Bondo2-1/Portfolio-page) | Personal portfolio UI built with modern React tooling and reusable components |
+
 
 ## GitHub Snapshot
 
